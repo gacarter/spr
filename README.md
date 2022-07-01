@@ -3,8 +3,8 @@ Generic self-paced reading experiment in jspsych
 
 Adapted from https://softdev.ppls.ed.ac.uk/online_experiments/
 
-- Requires [jspsych] (https://github.com/jspsych/jsPsych) 
-- Requires [PapaParse] (https://www.papaparse.com/)
+- Requires jspsych (https://github.com/jspsych/jsPsych) 
+- Requires PapaParse (https://www.papaparse.com/)
 
 consent_form.html : showcases consent form to participants and waits for confirmation from all ticked boxes
 experiment.html : details plug-ins and css used for experiment.js
